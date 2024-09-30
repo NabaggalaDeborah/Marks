@@ -1,0 +1,12 @@
+D:\FRONTEND COURSE\Marks\mark\bin\Debug\mark.exe.config
+D:\FRONTEND COURSE\Marks\mark\bin\Debug\mark.exe
+D:\FRONTEND COURSE\Marks\mark\bin\Debug\mark.pdb
+D:\FRONTEND COURSE\Marks\mark\bin\Debug\mark.xml
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.vbproj.AssemblyReference.cache
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.Form1.resources
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.Resources.resources
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.vbproj.GenerateResource.cache
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.vbproj.CoreCompileInputs.cache
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.exe
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.xml
+D:\FRONTEND COURSE\Marks\mark\obj\Debug\mark.pdb
